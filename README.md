@@ -1,1 +1,1 @@
-A Drone API application that exposes endpoints to register drone details, load a drone with medical supplies, check a drone battery loevel, check available drones for loading, etc.
+A Drone API application that exposes endpoints to register drone details, check a drone battery level, check available drones for loading with medical supplies, etc.
